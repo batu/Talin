@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3199918f915998647b67faf58b984705
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - knowledgebaseGO: {instanceID: 0}
+  - knowledgebase: {instanceID: 0}
+  - skillAtom: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
