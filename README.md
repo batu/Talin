@@ -1,6 +1,8 @@
 # Talin: A Better Way to build tutorials [Unity Asset]
 
-You can download the [Unity Asset Package](http://batuaytemiz.com/assets/TalinTutorials.unitypackage) or you can download the whole project with the example implementation.
+Talin helps game designers create dynamic tutorials that respond to player skills without writing any code.
+
+You can download the [Unity Asset Package](http://batuaytemiz.com/assets/TalinTutorials.unitypackage) or you can download the whole project with the example tutorial implementation.
 
 You can find the paper attached to this project [here](http://batuaytemiz.com/pdfs/talin.pdf).
 
