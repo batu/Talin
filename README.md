@@ -4,7 +4,7 @@ Talin helps game designers create dynamic tutorials that respond to player skill
 
 You can download the [Unity Asset Package](http://batuaytemiz.com/projects/TalinTutorials.unitypackage) or you can download the whole project with the example tutorial implementation.
 
-You can find the paper attached to this project [here](http://batuaytemiz.com/pdfs/talin.pdf).
+You can find the paper attached to this project [here](http://batuaytemiz.com/pdfs/Talin - A Framework for Dynamic Tutorials Based on the Skill Atoms Theory.pdf).
 
 The instruction video to use this asset can be found in this [link](https://www.youtube.com/watch?v=YXUUhJvzgog&feature=youtu.be) or down below.
 
