@@ -57,7 +57,7 @@ public class SkillAtom : MonoBehaviour {
     [HideInInspector]
     public bool everUsed = false;
     float lastUsedTime = 0f;
-    float lastChangedTime; // only need to update this when it actually changes, not every frame
+    //float lastChangedTime; // only need to update this when it actually changes, not every frame
 
     public float GetLastUse()
     {
@@ -78,7 +78,7 @@ public class SkillAtom : MonoBehaviour {
         everUsed = true;
         //time_since_last_use = 0f;
         lastUsedTime = Time.time;
-        lastChangedTime = Time.time;
+        //lastChangedTime = Time.time;
         initialMastery = Mathf.Max(Mathf.Min(val + initialMastery, 1.0f), 0.0f);
     }
 
@@ -90,7 +90,7 @@ public class SkillAtom : MonoBehaviour {
 	 */
     public void Decay(float val)
     {
-        lastChangedTime = Time.time;
+        //lastChangedTime = Time.time;
         initialMastery = Mathf.Max(Mathf.Min(initialMastery - val * Time.deltaTime, 1.0f), 0.0f);
     }
 }

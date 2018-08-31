@@ -5971,7 +5971,7 @@ Prefab:
         type: 2}
       propertyPath: skillAtom
       value: 
-      objectReference: {fileID: 114325573178853352, guid: ee7d32e2422acff459f39f3629e41cd9,
+      objectReference: {fileID: 114578974899548076, guid: cc5833ed4e162044d8ea891ef9911086,
         type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e97fc6dac6f0dd4449f1d5707ef48921, type: 2}
@@ -26828,7 +26828,7 @@ Prefab:
         type: 2}
       propertyPath: skillAtom
       value: 
-      objectReference: {fileID: 114325573178853352, guid: ee7d32e2422acff459f39f3629e41cd9,
+      objectReference: {fileID: 114578974899548076, guid: cc5833ed4e162044d8ea891ef9911086,
         type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3955bf56f941db848a7d9c0e5f531e4a, type: 2}
@@ -32312,7 +32312,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4763125205162874, guid: bb0018ce3a8caa643b44f8487c34bd25, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 1.6778412
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4763125205162874, guid: bb0018ce3a8caa643b44f8487c34bd25, type: 2}
       propertyPath: m_LocalPosition.y
