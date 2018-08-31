@@ -9,3 +9,6 @@ You can find the paper attached to this project [here](http://batuaytemiz.com/pd
 The instruction video to use this asset can be found in this [link](https://www.youtube.com/watch?v=YXUUhJvzgog&feature=youtu.be) or down below.
 
 [![Screenshot of Talin](https://img.youtube.com/vi/YXUUhJvzgog/0.jpg)](https://www.youtube.com/watch?v=YXUUhJvzgog&feature=youtu.be)
+
+
+Created in collaboration with Isaac Karth, Jesse Harder, Adam M. Smith and Jim Whitehead.
